@@ -17,7 +17,7 @@ public abstract class MyTimer {
             l.onTimerElapsed();
         }
     }
-
+    // второй коммит в свою ветку
     public abstract void schedule(int delay);
 
     public void stop() {
